@@ -38,7 +38,7 @@ Check out the demo video below to see the balancing robot in action:
 Contributions to this project are welcome! Whether you want to report a bug, suggest an improvement, or add new features, please feel free to open an issue or submit a pull request.
 
 ## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](LICENSE), which means you are free to:
+This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), which means you are free to:
 
 - **Share:** Copy and redistribute the material in any medium or format.
 - **Adapt:** Remix, transform, and build upon the material.
