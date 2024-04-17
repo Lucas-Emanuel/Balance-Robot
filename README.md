@@ -49,17 +49,17 @@ Under the following terms:
 - **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ## Authors
-- **Name:** [Lucas Emanuel Lobo Costa]
+- **Name:** [Lucas Emanuel Costa]
 - **Email:** [lucaselc@ufmg.br]
-- **GitHub:** [Your GitHub Profile]
+- **GitHub:** [Lucas-Emanuel]
 -
-- **Name:** [Fernando]
-- **Email:** [lucaselc@ufmg.br]
-- **GitHub:** [Your GitHub Profile]
+- **Name:** [Fernando Souza]
+- **Email:** []
+- **GitHub:** []
 - 
 ## Acknowledgements
 Special thanks to all the contributors who have helped make this project possible.
 
 ---
 
-For any questions or inquiries, please contact [maintainer@example.com](mailto:maintainer@example.com). Thank you for your interest in the Balancing Robot project!
+For any questions or inquiries, please contact [lucaselc@ufmg.br](mailto:lucaselc@ufmg.br). Thank you for your interest in the Balancing Robot project!
